@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @waldecyfa
-- tenho facilidades com projetos Javascript, Typescript, Node. C#, Aspnet Core, Php, Laravel, Java, Nestjs.
+- 👋 Olá, Eu chamo Waldecy Façanha @waldecyfa
+- Sou Desenvolvedor: Javascript, Typescript, Node. C#, Aspnet Core, Php, Laravel, Java, Nestjs.
   
 
 <!---
